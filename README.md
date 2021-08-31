@@ -1,3 +1,3 @@
 # asapa
 
-Capstone Project Google Bangkit 2021
+Capstone Project Bangkit Academy 2021
