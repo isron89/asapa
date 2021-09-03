@@ -11,4 +11,4 @@ Project developed by Davinci Team(B21-CAP0268):
 - Yosua Marthin Hawila Tampubolon (Machine Learning)
 - Martin Pardamean Batubara (Machine Learning)
 - Anisa (Android)
-- John Junieargo Timotius
+- John Junieargo Timotius (Android)
